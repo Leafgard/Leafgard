@@ -4,7 +4,7 @@ Welcome to my GitHub profile !
 
 🔭 I am a **20-year old** French engineering student at **CESI Strasbourg**, and currently working as a **Software Developer @ Actemium Basel CH**.
 
-I am mostly developing **Node.JS** / **React** applications using **TypeScript**. I'm also certified as **Node.JS Services & Applications Developer** since 2020.
+I am mostly developing **Node.JS** / **React** applications on top of **TypeScript**.
 
 ⚡ My biggest project at the moment is building a **Game Server Provider** called **Dedi-Games** with a [friend](https://github.com/Madriax).
 
