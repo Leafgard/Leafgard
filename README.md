@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile !
 
-🔭 I am a **20-year old** French engineering student at **CESI Strasbourg**, and currently working as a **Software Developer @ [Actemium Basel CH](https://www.actemium.ch/fr/)**.
+🔭 I am a **20-year old** French engineering student at **CESI Strasbourg**, and currently working as a **Software Developer @ [Actemium Schweiz AG](https://www.actemium.ch/fr/)**.
 
 I am mostly developing **Node.JS** / **React** applications on top of **TypeScript**.
 
